@@ -1,5 +1,5 @@
 # Project-management
-![Screenshot](./project management ss)
+![Screenshot](./screenshot.png)
 
 ### Tech Stack:
 
